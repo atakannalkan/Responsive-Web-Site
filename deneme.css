@@ -1,0 +1,94 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yazi h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.resimler{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 70px;
+}
+.yazi{
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+.resim{
+    width: 50%;
+    height: auto;
+    margin-left: 100px;
+    align-items: center;
+}
+.resim img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+.yazi2{
+    margin-left: 100px;
+    order: 1;
+}
+.resim2{
+    margin-left: 0;
+}
+@media screen and (max-width:1050px){
+    .resimler{
+        width: 800px;
+        height: auto;
+    }
+}
+@media screen and (max-width:840px){
+    .resimler{
+        max-width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        padding: 0 auto;
+    }
+    .yazi2{
+        margin: 0 auto;
+    }
+    .yazi{
+        margin: 0 auto;
+        order: 1;
+    }
+    .resim{
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+}
+@media screen and (max-width:600px){
+    .resimler{
+        max-width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        padding: 0 auto;
+    }
+    .yazi2{
+        margin: 0 auto;
+    }
+    .yazi{
+        font-size: 14px;
+        width: 90%;
+        order: 1;
+        margin: 0 auto;
+    }
+    .yazi h1{
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .resim{
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+}
