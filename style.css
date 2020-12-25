@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 .yazi h1{
-    font-size: 50px;
+    font-size: 45px;
     font-weight: 700;
 }
 .resimler{
@@ -43,6 +43,9 @@
     .resimler{
         width: 800px;
         height: auto;
+    }
+    .yazi h1{
+        font-size: 35px;
     }
 }
 @media screen and (max-width:840px){
