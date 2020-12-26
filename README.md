@@ -4,7 +4,7 @@
 HTML ve CSS ile Responsive (Mobil Uyumlu) Web site tasarımı
 
 
-Yukarıda verilen Örnekteki bütün kodları Atakan Alkan'a aittir !
+Yukarıda verilen Örnekteki bütün kodlar ATAKAN ALKAN'a aittir !
 
 
 
