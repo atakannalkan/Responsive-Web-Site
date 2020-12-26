@@ -3,4 +3,4 @@
 
 HTML ve CSS ile Responsive (Mobil Uyumlu) Web site tasarımı
 
-Web Sitem: https://atakanalkan.com/ss
+Web Sitem: https://atakanalkan.com/
